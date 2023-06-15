@@ -1,17 +1,19 @@
 'use client';
 
-import { Button, Navbar } from 'flowbite-react';
-import DefaultSidebar from './SideBar';
+import { Button, Navbar, Label, TextInput } from 'flowbite-react';
+import { HiMenu, HiVideoCamera, HiBell, HiUser, HiOutlineMicrophone, HiOutlineSearch} from "react-icons/hi";
+
 
 import youtubeLogo from '../assets/images/youtube-logo-hd-8.png'
 
 export default function NavbarWithCTAButton() {
+  const imageSize = '40px';
   return (
     <Navbar
       fluid
       rounded
     >
-
+    
       <Navbar.Brand href="">
         {/*TODO:  Some hamburger button 
             Use navbar-collapse????? */}
@@ -20,11 +22,25 @@ export default function NavbarWithCTAButton() {
          Youtube <sup>PH</sup>
         </span>
       </Navbar.Brand>
+     
       <div className="flex md:order-2">
-        <Button>
-          Get started
-        </Button>
+        <HiVideoCamera size={imageSize} />
+        <HiBell size={imageSize} />
+        <HiUser size={imageSize} />
       </div>
+
+      
+       <div className='flex'>
+        <TextInput 
+          id='searchTopic'
+          placeholder='Search'
+          required
+          rightIcon={HiOutlineSearch}
+        />
+        <HiOutlineMicrophone />
+       </div>
+
+      
      
     </Navbar>
   )
