@@ -14,7 +14,7 @@ export default function WatchLater() {
           <Sidebar.Item
             href="#"
           >
-             <div id='content--icon'>
+             <div id='contentIcon'>
               <AiOutlineClockCircle size={iconSize}/> 
               <h6 id='sidebarItems'>Watch Later</h6>
             </div>   

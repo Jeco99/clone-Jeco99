@@ -14,7 +14,7 @@ export default function LikedVideos() {
           <Sidebar.Item
             href="#"
           >
-            <div id='content--icon'>
+            <div id='contentIcon'>
               <MdVideoLibrary size={iconSize}/> 
               <h6 id='sidebarItems'>Liked videos</h6>
             </div>  

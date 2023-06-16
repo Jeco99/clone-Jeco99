@@ -14,7 +14,7 @@ export default function Subscription() {
             href="#"
            
           >
-             <div id='content--icon'>
+             <div id='contentIcon'>
               <MdSubscriptions size={iconSize}/> 
               <h6 id='sidebarItems'>Subscriptions</h6>
             </div>    

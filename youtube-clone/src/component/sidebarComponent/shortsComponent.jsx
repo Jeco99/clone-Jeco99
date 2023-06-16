@@ -14,7 +14,7 @@ export default function Shorts() {
           <Sidebar.Item
             href="#"
           >
-            <div id='content--icon'>
+            <div id='contentIcon'>
               <AiFillHome size={iconSize}/> 
               <h6 id='sidebarItems'>Shorts</h6>
             </div>

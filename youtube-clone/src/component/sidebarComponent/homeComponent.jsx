@@ -13,7 +13,7 @@ export default function Home() {
           
           <Sidebar.Item
             href="#">
-            <div id='content--icon'>
+            <div id='contentIcon'>
               <AiFillHome size={iconSize}/> 
               <h6 id='sidebarItems'>Home</h6>
             </div>

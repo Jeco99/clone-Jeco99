@@ -13,7 +13,7 @@ export default function YourVideos() {
           <Sidebar.Item
             href="#"
           >
-            <div id='content--icon'>
+            <div id='contentIcon'>
                <AiOutlinePlaySquare size={iconSize}/> 
                <h6 id='sidebarItems'>Your videos</h6>
             </div>           

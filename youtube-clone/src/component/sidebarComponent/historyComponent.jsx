@@ -14,7 +14,7 @@ export default function History() {
           <Sidebar.Item
             href="#"
           >
-            <div id='content--icon'>
+            <div id='contentIcon'>
               <MdVideoLibrary size={iconSize}/> 
               <h6 id='sidebarItems'>History</h6>
             </div>      
