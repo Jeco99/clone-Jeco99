@@ -1,10 +1,10 @@
 'use client';
 
 import { Sidebar } from 'flowbite-react';
-// TODO: insert sidebar item under library
 import { MdVideoLibrary } from "react-icons/md";
 
 export default function LikedVideos() {
+  const iconSize = '30px';
   return (
     <Sidebar aria-label="Default sidebar example">
       
@@ -13,9 +13,11 @@ export default function LikedVideos() {
           
           <Sidebar.Item
             href="#"
-           
           >
-          <h6> <MdVideoLibrary/> Liked videos</h6>
+            <div id='content--icon'>
+              <MdVideoLibrary size={iconSize}/> 
+              <h6 id='sidebarItems'>Liked videos</h6>
+            </div>  
           </Sidebar.Item>
         </Sidebar.ItemGroup>
       </Sidebar.Items>

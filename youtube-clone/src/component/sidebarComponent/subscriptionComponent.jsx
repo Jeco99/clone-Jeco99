@@ -1,10 +1,10 @@
 'use client';
 
 import { Sidebar } from 'flowbite-react';
-// TODO: insert sidebar item under subscription
 import { MdSubscriptions } from "react-icons/md";
 
 export default function Subscription() {
+  const iconSize = '30px';
   return (
     <Sidebar aria-label="Default sidebar example">
       <Sidebar.Items>
@@ -14,8 +14,10 @@ export default function Subscription() {
             href="#"
            
           >
-            
-            <h6> <MdSubscriptions /> Subscriptions</h6>
+             <div id='content--icon'>
+              <MdSubscriptions size={iconSize}/> 
+              <h6 id='sidebarItems'>Subscriptions</h6>
+            </div>    
           </Sidebar.Item>
         </Sidebar.ItemGroup>
       </Sidebar.Items>

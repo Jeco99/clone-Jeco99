@@ -6,12 +6,14 @@
     box-sizing: border-box;
 }
 
+.displayContent{
+  display: flex;        
+} 
 
-.navbar{
-    background-color: black;
+#content--icon{
+  display: flex;
 }
 
-
-  .displayContent{
-    display: flex;        
-  } 
+#sidebarItems{
+  padding-left: 10px;
+}

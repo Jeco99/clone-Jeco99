@@ -1,10 +1,10 @@
 'use client';
 
 import { Sidebar } from 'flowbite-react';
-// TODO: insert sidebar item under explore
 import { MdVideoLibrary } from "react-icons/md";
 
 export default function History() {
+  const iconSize = '30px';
   return (
     <Sidebar aria-label="Default sidebar example">
       
@@ -13,9 +13,11 @@ export default function History() {
 
           <Sidebar.Item
             href="#"
-           
           >
-        <h6> < MdVideoLibrary/> History</h6>
+            <div id='content--icon'>
+              <MdVideoLibrary size={iconSize}/> 
+              <h6 id='sidebarItems'>History</h6>
+            </div>      
           </Sidebar.Item>
 
         </Sidebar.ItemGroup>

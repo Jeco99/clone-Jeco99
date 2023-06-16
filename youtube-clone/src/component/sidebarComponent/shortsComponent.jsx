@@ -1,9 +1,10 @@
 'use client';
 
 import { Sidebar } from 'flowbite-react';
-// TODO: insert sidebar item under explore
+import { AiFillHome } from "react-icons/ai";
 
 export default function Shorts() {
+  const iconSize = '30px';
   return (
     <Sidebar aria-label="Default sidebar example">
       
@@ -12,9 +13,11 @@ export default function Shorts() {
 
           <Sidebar.Item
             href="#"
-           
           >
-            <h6>Shorts</h6>
+            <div id='content--icon'>
+              <AiFillHome size={iconSize}/> 
+              <h6 id='sidebarItems'>Shorts</h6>
+            </div>
           </Sidebar.Item>
 
         </Sidebar.ItemGroup>
