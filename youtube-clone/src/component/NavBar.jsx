@@ -1,6 +1,6 @@
 'use client';
 
-import { Button, Navbar, Label, TextInput } from 'flowbite-react';
+import { Navbar, TextInput } from 'flowbite-react';
 import { HiMenu, HiVideoCamera, HiBell, HiUser, HiOutlineMicrophone, HiOutlineSearch} from "react-icons/hi";
 
 
@@ -17,6 +17,7 @@ export default function NavbarWithCTAButton() {
       <Navbar.Brand href="">
         {/*TODO:  Some hamburger button 
             Use navbar-collapse????? */}
+          <HiMenu size={imageSize}/>
         <img className="w-10" src={youtubeLogo} alt="Youtube Logo" />
         <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
          Youtube <sup>PH</sup>
@@ -37,7 +38,7 @@ export default function NavbarWithCTAButton() {
           required
           rightIcon={HiOutlineSearch}
         />
-        <HiOutlineMicrophone />
+        <HiOutlineMicrophone size={imageSize}/>
        </div>
 
       

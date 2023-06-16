@@ -1,72 +1,33 @@
 'use client';
 
 import { Sidebar } from 'flowbite-react';
-import { HiArrowSmRight, HiChartPie, HiInbox, HiShoppingBag, HiTable, HiUser, HiViewBoards } from 'react-icons/hi';
+import MainSideBar from './sidebarComponent/mainSideBar';
+import Explore from './sidebarComponent/exploreComponent';
+import Library from './sidebarComponent/libraryComponent';
+import Subscription from './sidebarComponent/subscriptionComponent';
+import MoreAboutYT from './sidebarComponent/moreAboutYTComponent';
+import SettingYT from './sidebarComponent/settingComponent';
 
 export default function DefaultSidebar() {
   return (
     <Sidebar aria-label="Default sidebar example">
       <Sidebar.Items>
         <Sidebar.ItemGroup>
-          <Sidebar.Item
-            href="#"
-            icon={HiChartPie}
-          >
-            <p>
-              Dashboard
-            </p>
-          </Sidebar.Item>
-          <Sidebar.Item
-            href="#"
-            icon={HiViewBoards}
-            label="Pro"
-            labelColor="dark"
-          >
-            <p>
-              Kanban
-            </p>
-          </Sidebar.Item>
-          <Sidebar.Item
-            href="#"
-            icon={HiInbox}
-            label="3"
-          >
-            <p>
-              Inbox
-            </p>
-          </Sidebar.Item>
-          <Sidebar.Item
-            href="#"
-            icon={HiUser}
-          >
-            <p>
-              Users
-            </p>
-          </Sidebar.Item>
-          <Sidebar.Item
-            href="#"
-            icon={HiShoppingBag}
-          >
-            <p>
-              Products
-            </p>
-          </Sidebar.Item>
-          <Sidebar.Item
-            href="#"
-            icon={HiArrowSmRight}
-          >
-            <p>
-              Sign In
-            </p>
-          </Sidebar.Item>
-          <Sidebar.Item
-            href="#"
-            icon={HiTable}
-          >
-            <p>
-              Sign Up
-            </p>
-          </Sidebar.Item>
+         
+            <MainSideBar />
+            <hr />
+            <Explore />
+            <hr />
+            <Library />
+            <hr />
+            <Subscription />
+            <hr />
+            <MoreAboutYT />
+            <hr />
+            <SettingYT />
+            <hr />
+
+
         </Sidebar.ItemGroup>
       </Sidebar.Items>
     </Sidebar>
