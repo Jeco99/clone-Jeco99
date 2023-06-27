@@ -1,21 +1,18 @@
 'use client';
 
 import { Sidebar } from 'flowbite-react';
-import subscriptionsData from './subscriptionData';
+import libraryData from './libraryData'
 
-
-export default function Subscription() {
+export default function Library() {
   return (
     <>
-        <h1>Subscription</h1>
-        
         <Sidebar aria-label="Default sidebar example">
-      <Sidebar.Items>
-        <Sidebar.ItemGroup>
-            {subscriptionsData.map( ( {icons, name} ) => (
+        <Sidebar.Items>
+            <Sidebar.ItemGroup>
+            {libraryData.map( ( {icon, name} ) => (
                   <Sidebar.Item
                   href={`/${name}`}
-                  icon={icons}
+                  icon={icon}
                   key={name}
                 >
                   <p>
@@ -23,12 +20,10 @@ export default function Subscription() {
                   </p>
                 </Sidebar.Item>
             ))}
-        
-        </Sidebar.ItemGroup>
-      </Sidebar.Items>
-    </Sidebar>
+            </Sidebar.ItemGroup>
+        </Sidebar.Items>
+        </Sidebar>
     </>
- 
   )
 }
 

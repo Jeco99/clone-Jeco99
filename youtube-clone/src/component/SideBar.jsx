@@ -2,11 +2,12 @@
 
 import { Sidebar } from 'flowbite-react';
 
-import Home from './sidebar/home';
-import Subscription from '/src/component/sidebar/subscription/subscriptions';
-import Explore from './sidebar/explore';
-import MoreAboutYoutube from './sidebar/moreAboutYoutube';
-import Setting from './sidebar/setting';
+import Home from './sidebar/home/home';
+import Library from './sidebar/library/library';
+import Subscription from './sidebar/subscription/subscriptions';
+import Explore from './sidebar/explore/explore';
+import MoreAboutYoutube from './sidebar/more_about/moreAboutYoutube';
+import Setting from './sidebar/setting/setting';
 
 export default function DefaultSidebar() {
   return (
@@ -14,6 +15,8 @@ export default function DefaultSidebar() {
       <Sidebar.Items>
         <Sidebar.ItemGroup>
           <Home />
+          <hr />
+          <Library />
           <hr />
           <Subscription />
           <hr />

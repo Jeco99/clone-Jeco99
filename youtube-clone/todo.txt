@@ -9,7 +9,7 @@ Meet with your team (capstone)
  - Must create another repository for this activity and add your team as a collaborator as well.  
 
 2. Folder Structure
-  - Create a folder named "pages" in the src directory.
+  done - Create a folder named "pages" in the src directory. 
   - Inside the "pages" folder, create multiple component files. Must create at least 3 custom pages, a Login page and an Error Page.
   - Each component should render a simple message or content related to its purpose (e.g., Home component can display a welcome message).
 

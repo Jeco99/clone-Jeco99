@@ -1,8 +1,8 @@
 'use client';
 
-import { Navbar, TextInput, Dropdown, Avatar } from 'flowbite-react';
+import { Navbar, TextInput, Dropdown} from 'flowbite-react';
 import { HiMenu, HiVideoCamera, HiBell, HiOutlineMicrophone, HiOutlineSearch} from "react-icons/hi";
-import UserImage from '../assets/images/user-image.jpg'
+import DefaultAvatar from './avatar/avatar';
 
 import youtubeLogo from '../assets/images/youtube-logo-hd-8.png'
 
@@ -26,7 +26,7 @@ export default function NavbarWithCTAButton() {
         <HiBell size={imageSize} />
         <Dropdown
           inline
-          label={<Avatar alt="User settings" img={UserImage} rounded/>}
+          label={<DefaultAvatar/>}
         >
 
           <Dropdown.Header>
