@@ -4,7 +4,6 @@ import { Navbar, TextInput, Dropdown, Avatar } from 'flowbite-react';
 import { HiMenu, HiVideoCamera, HiBell, HiOutlineMicrophone, HiOutlineSearch} from "react-icons/hi";
 import UserImage from '../assets/images/user-image.jpg'
 
-
 import youtubeLogo from '../assets/images/youtube-logo-hd-8.png'
 
 export default function NavbarWithCTAButton() {
@@ -13,8 +12,7 @@ export default function NavbarWithCTAButton() {
     <Navbar
       fluid
       rounded
-    >
-    
+    >    
       <Navbar.Brand href=""> 
         <HiMenu size={imageSize}/>     
         <img className="w-10" src={youtubeLogo} alt="Youtube Logo" />
@@ -31,7 +29,6 @@ export default function NavbarWithCTAButton() {
           label={<Avatar alt="User settings" img={UserImage} rounded/>}
         >
 
-        {/* TODO:  Logo should be beside the User Name and add icons for each dropdown item*/}
           <Dropdown.Header>
             <span className="block text-sm">
               Emeroe Neñeria

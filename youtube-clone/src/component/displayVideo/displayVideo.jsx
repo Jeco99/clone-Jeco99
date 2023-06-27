@@ -1,6 +1,6 @@
 "use client";
 import { Card } from "flowbite-react";
-import SimpleTabs from "./tab";
+import SimpleTabs from "../tabs/tab";
 import videoData from "./videoData";
 
 function DisplayVideo() {

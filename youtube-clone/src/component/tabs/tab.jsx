@@ -1,17 +1,17 @@
-//TODO: make it scrollable tabs
-
-
-import React from "react";
-
+import { useState } from "react";
+import "./style.css";
 import { Tabs, Tab } from "react-tabs-scrollable";
 import "react-tabs-scrollable/dist/rts.css";
-export default function App() {
-  const [activeTab, setActiveTab] = React.useState(10);
 
-  // define an onClick function to bind the value on tab click
+import tabsData from "./tabsData";
+
+export default function App() {
+  const [activeTab, setActiveTab] = useState(tabsData.length);
+
   const onTabClick = (e, index) => {
     setActiveTab(index);
   };
+
   return (
     <div className="App">
       <Tabs
@@ -19,9 +19,8 @@ export default function App() {
         onTabClick={onTabClick}
         hideNavBtnsOnMobile={false}
       >
-        {/* generating an array to loop through it  */}
-        {[...Array(10).keys()].map((item) => (
-          <Tab key={item}>Tab {item}</Tab>
+        {tabsData.map((item) => (
+          <Tab key={item}>{item.title}</Tab>
         ))}
       </Tabs>
     </div>
