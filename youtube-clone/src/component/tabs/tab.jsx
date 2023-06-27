@@ -1,5 +1,4 @@
 import { useState } from "react";
-import "./style.css";
 import { Tabs, Tab } from "react-tabs-scrollable";
 import "react-tabs-scrollable/dist/rts.css";
 
