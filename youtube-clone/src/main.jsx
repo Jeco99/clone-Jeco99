@@ -11,7 +11,6 @@ import LogInPage from "./pages/logInPage";
 
 import './style/index.css'
 
-
 const router = createBrowserRouter(
   [
     {
