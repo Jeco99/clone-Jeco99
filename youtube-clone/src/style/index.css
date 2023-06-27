@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 
-.displayContent{
+#displayContent{
   display: flex;        
 } 
 
@@ -17,3 +17,10 @@
 #sidebarItems{
   padding-left: 10px;
 }
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+

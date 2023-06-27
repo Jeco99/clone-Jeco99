@@ -2,33 +2,26 @@
 
 import { Sidebar } from 'flowbite-react';
 
-import Library from './sidebarComponent/libraryComponent';
-import Subscription from './sidebarComponent/subscriptionComponent';
-import Home from './sidebarComponent/homeComponent';
-import Shorts from './sidebarComponent/shortsComponent';
-import History from './sidebarComponent/historyComponent';
-import YourVideos from './sidebarComponent/yourVideosComponent';
-import WatchLater from './sidebarComponent/watchLaterComponent';
-import LikedVideos from './sidebarComponent/likeVideosComponent';
+import Home from './sidebar/home';
+import Subscription from '/src/component/sidebar/subscription/subscriptions';
+import Explore from './sidebar/explore';
+import MoreAboutYoutube from './sidebar/moreAboutYoutube';
+import Setting from './sidebar/setting';
 
 export default function DefaultSidebar() {
   return (
     <Sidebar aria-label="Default sidebar example">
       <Sidebar.Items>
         <Sidebar.ItemGroup>
-        
-            <Home />
-            <Shorts />
-            <Subscription />
-            <hr />
-
-            <Library />
-            <History />
-            <YourVideos />
-            <WatchLater />           
-            <LikedVideos />
-            <hr />
-
+          <Home />
+          <hr />
+          <Subscription />
+          <hr />
+          <Explore />
+          <hr />
+          <MoreAboutYoutube />
+          <hr />
+          <Setting />
         </Sidebar.ItemGroup>
       </Sidebar.Items>
     </Sidebar>
