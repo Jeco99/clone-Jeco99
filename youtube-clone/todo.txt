@@ -1,0 +1,37 @@
+
+Activity: React Router Scavenger Hunt
+
+Meet with your team (capstone)
+
+1. Project Setup
+ - Select a project to enhance from our clone project activity.
+ - Install React Router by running npm install react-router-dom
+ - Must create another repository for this activity and add your team as a collaborator as well.  
+
+2. Folder Structure
+  - Create a folder named "pages" in the src directory.
+  - Inside the "pages" folder, create multiple component files. Must create at least 3 custom pages, a Login page and an Error Page.
+  - Each component should render a simple message or content related to its purpose (e.g., Home component can display a welcome message).
+
+3. Implement routing
+   - Set up a basic routing configuration
+   - Must have a main route that have at leat 3 children routes
+   - Must redirect to  Error Page when encountered an error
+   - Must create a separate route for login
+
+4. Scavenger Hunt
+ - Prepare at least 3 set questions, or tasks related to React Router and the components you've created.
+ - This will be answered by other students in other groups upon presentation of the activity.
+ - For example:
+        Clue 1: "Find the route that displays information about the company. Hint: It's the route where you can learn about our history and team."
+        Clue 2: "Navigate to the route that allows users to contact us. You'll find our contact information and a form to send messages."
+        Clue 3: "Locate the hidden route that showcases our featured products. This is where customers can browse and purchase items."
+
+5. Discussion Time
+  - Present your enhanced clone project.
+  - Do the scavenger hunt!
+  - 5pm @zoom, Thursday
+
+
+
+Happy coding!

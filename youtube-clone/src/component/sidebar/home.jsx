@@ -9,7 +9,7 @@ export default function Home() {
       <Sidebar.Items>
         <Sidebar.ItemGroup>
           <Sidebar.Item
-            href="#"
+            href="/home"
             icon={HiChartPie}
           >
             <p>
@@ -17,7 +17,7 @@ export default function Home() {
             </p>
           </Sidebar.Item>
           <Sidebar.Item
-            href="#"
+            href="/short"
             icon={HiViewBoards}
           >
             <p>
@@ -25,7 +25,7 @@ export default function Home() {
             </p>
           </Sidebar.Item>
           <Sidebar.Item
-            href="#"
+            href="/subscriptions"
             icon={HiInbox}
           >
             <p>
@@ -34,7 +34,7 @@ export default function Home() {
           </Sidebar.Item>
           <hr />
           <Sidebar.Item
-            href="#"
+            href="/library"
             icon={HiChartPie}
           >
             <p>
@@ -42,7 +42,7 @@ export default function Home() {
             </p>
           </Sidebar.Item>
           <Sidebar.Item
-            href="#"
+            href="/history"
             icon={HiViewBoards}
           >
             <p>
@@ -50,7 +50,7 @@ export default function Home() {
             </p>
           </Sidebar.Item>
           <Sidebar.Item
-            href="#"
+            href="/watchlater"
             icon={HiInbox}
           >
             <p>
@@ -58,7 +58,7 @@ export default function Home() {
             </p>
           </Sidebar.Item>
           <Sidebar.Item
-            href="#"
+            href="/likedvideos"
             icon={HiInbox}
           >
             <p>

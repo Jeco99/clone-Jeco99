@@ -1,19 +1,36 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
-import NavbarWithCTAButton from './component/Navbar'
-import DefaultSidebar from './component/SideBar'
-import DisplayVideo from './component/displayVideo/displayVideo'
+import * as React from "react";
+import * as ReactDOM from "react-dom/client";
+import {
+  createBrowserRouter,
+  RouterProvider,
+} from "react-router-dom";
+
+import Root from "./root";
+import ErrorPage from "./pages/errorPage";
+import LogInPage from "./pages/logInPage";
 
 import './style/index.css'
 
 
+const router = createBrowserRouter(
+  [
+    {
+      path: "/",
+      element: <LogInPage />,
+      errorElement: <ErrorPage />
+    },
+    {
+      path:"/root",
+      element: <Root />,
+      errorElement: <ErrorPage/>
+    }
+  ]
+)
+
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <nav id="navbar"> <NavbarWithCTAButton /> </nav>
-    <div id="displayContent">
-      <aside id="sidebar" > <DefaultSidebar /> </aside>
-      <main id="MainContent"> <DisplayVideo /> </main>
-    </div> 
+      <RouterProvider router={router} />
   </React.StrictMode>,
 )
 

@@ -54,7 +54,7 @@ export default function NavbarWithCTAButton() {
             Switch Account
           </Dropdown.Item>
           <Dropdown.Item>
-            Sign out
+            Sign Out
           </Dropdown.Item>
           <Dropdown.Divider />
           <Dropdown.Item>
