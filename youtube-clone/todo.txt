@@ -10,7 +10,17 @@ Meet with your team (capstone)
 
 2. Folder Structure
   done - Create a folder named "pages" in the src directory. 
-  - Inside the "pages" folder, create multiple component files. Must create at least 3 custom pages, a Login page and an Error Page.
+  done - Inside the "pages" folder, create multiple component files. Must create at least 3 custom pages, a Login page and an Error Page.
+  
+  - Component added:
+     - logIn page
+     - error page
+     - avatar 
+     - subscription
+     - Home
+     - shorts
+     - sign out by JDEO => ongoing
+
   - Each component should render a simple message or content related to its purpose (e.g., Home component can display a welcome message).
 
 3. Implement routing

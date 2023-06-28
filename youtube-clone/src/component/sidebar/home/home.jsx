@@ -2,6 +2,7 @@
 
 import { Sidebar } from 'flowbite-react';
 import homeData from './homeData';
+import { Link } from "react-router-dom";
 
 export default function Home() {
   return (
@@ -11,13 +12,10 @@ export default function Home() {
             <Sidebar.ItemGroup>
             {homeData.map( ( {icon, name} ) => (
                   <Sidebar.Item
-                  href={`/${name}`}
                   icon={icon}
                   key={name}
                 >
-                  <p>
-                   {name}
-                  </p>
+                  <Link to={`/pages/${name}`}>  {name} </Link>
                 </Sidebar.Item>
             ))}
             </Sidebar.ItemGroup>

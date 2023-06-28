@@ -19,7 +19,7 @@ export default function App() {
         hideNavBtnsOnMobile={false}
       >
         {tabsData.map((item) => (
-          <Tab key={item}>{item.title}</Tab>
+          <Tab key={item.title}>{item.title}</Tab>
         ))}
       </Tabs>
     </div>

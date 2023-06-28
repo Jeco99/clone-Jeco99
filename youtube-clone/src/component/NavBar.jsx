@@ -3,8 +3,8 @@
 import { Navbar, TextInput, Dropdown} from 'flowbite-react';
 import { HiMenu, HiVideoCamera, HiBell, HiOutlineMicrophone, HiOutlineSearch} from "react-icons/hi";
 import DefaultAvatar from './avatar/avatar';
-
-import youtubeLogo from '../assets/images/youtube-logo-hd-8.png'
+import Logo from './logo/logo';
+import { Link } from 'react-router-dom';
 
 export default function NavbarWithCTAButton() {
   const imageSize = '40px';
@@ -14,11 +14,11 @@ export default function NavbarWithCTAButton() {
       rounded
     >    
       <Navbar.Brand href=""> 
-        <HiMenu size={imageSize}/>     
-        <img className="w-10" src={youtubeLogo} alt="Youtube Logo" />
-        <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
-         Youtube <sup>PH</sup>
-        </span>
+        <HiMenu size={imageSize}/>
+        
+        <Link to='/root'> 
+          <Logo />         
+        </Link>
       </Navbar.Brand>
      
       <div className="flex md:order-2">

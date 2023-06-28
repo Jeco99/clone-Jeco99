@@ -12,11 +12,11 @@ export default function Subscription() {
         <Sidebar aria-label="Default sidebar example">
       <Sidebar.Items>
         <Sidebar.ItemGroup>
-            {subscriptionsData.map( ( {icons, name} ) => (
+            {subscriptionsData.map( ( {icons, name}, index ) => (
                   <Sidebar.Item
                   href={`/${name}`}
                   icon={icons}
-                  key={name}
+                  key={`${index}_${name}`}
                 >
                   <p>
                    {name}

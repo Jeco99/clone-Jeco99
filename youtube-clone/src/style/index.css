@@ -60,3 +60,6 @@ Form{
   text-align: center;
 }
 
+.logo{
+  display: flex;
+}
