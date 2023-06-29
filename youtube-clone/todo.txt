@@ -29,6 +29,11 @@ Meet with your team (capstone)
    - Must redirect to  Error Page when encountered an error
    - Must create a separate route for login
 
+1. Sa login page, once mag submit na ma log in ang user, locate the code where it redirects to the root/main page?
+2. On the web app, locate the Signout button where the user will be redirected to the Login Page once logged out?
+3. In the code, what path is being called to when Signout button is clicked?
+
+
 4. Scavenger Hunt
  - Prepare at least 3 set questions, or tasks related to React Router and the components you've created.
  - This will be answered by other students in other groups upon presentation of the activity.
