@@ -5,6 +5,7 @@ import { HiMenu, HiVideoCamera, HiBell, HiOutlineMicrophone, HiOutlineSearch} fr
 import DefaultAvatar from './avatar/avatar';
 import Logo from './logo/logo';
 import { Link } from 'react-router-dom';
+import SignOut from './navbar/logout/Signout';
 
 export default function NavbarWithCTAButton() {
   const imageSize = '40px';
@@ -17,7 +18,7 @@ export default function NavbarWithCTAButton() {
         <HiMenu size={imageSize}/>
         
         <Link to='/root'> 
-          <Logo />         
+          <Logo />
         </Link>
       </Navbar.Brand>
      
@@ -51,7 +52,7 @@ export default function NavbarWithCTAButton() {
             Switch Account
           </Dropdown.Item>
           <Dropdown.Item>
-            Sign Out
+            <SignOut />
           </Dropdown.Item>
           <Dropdown.Divider />
           <Dropdown.Item>
