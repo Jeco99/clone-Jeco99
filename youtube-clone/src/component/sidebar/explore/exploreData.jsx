@@ -27,6 +27,6 @@ export default [
     },
     {
         icon:HiViewBoards,
-        name: 'Fashion & Beauty'
+        name: 'FashionBeauty'
     }
 ]

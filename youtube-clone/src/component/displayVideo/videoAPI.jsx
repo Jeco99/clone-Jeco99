@@ -1,1328 +1,1022 @@
 export default [
         {
             "kind": "youtube#searchResult",
-            "etag": "lsarlxNPWNZ6ee4Q7l3pL64h6TU",
+            "etag": "uCrh7ttnglCVvkGbogfgm6uoCyY",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "tmRU0Q4gGvQ"
+                "videoId": "wuWpUPD0Rlo"
             },
             "snippet": {
-                "publishedAt": "2023-06-23T23:00:31Z",
-                "channelId": "UCGwy3aG0otCibKPyuR0q1nA",
-                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 2023년 6월 24일 실시간 인기차트 🎵🍈 KPOP 발라드, 팝송, 힙합, 아이돌 그룹 | 노래모음 최신가요, 광고없는 멜론차트 플레이리스트 | PLAYLIST",
-                "description": "즐거운 하루 보내세요! 구독과 좋아요 댓글은 채널 운영에 큰 힘이 됩니다! ❗️ 몇 가지 작은 메모! → 조회수 1만 회부터 유튜브 측에서 ...",
+                "publishedAt": "2023-06-14T03:00:33Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[#퀸덤퍼즐] 제작발표회 포토타임 현장 | 매주 화요일 밤 10시 본 방송 #QUEENDOMPUZZLE",
+                "description": "퀸덤퍼즐] 제작발표회 포토타임 현장 | 매주 화요일 밤 10시 본 방송 걸그룹 최상의 조합을 완성하라! Mnet 〈퀸덤퍼즐〉 매주 화요일 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/tmRU0Q4gGvQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/wuWpUPD0Rlo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/tmRU0Q4gGvQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wuWpUPD0Rlo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/tmRU0Q4gGvQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wuWpUPD0Rlo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "1H Kpop",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-23T23:00:31Z"
+                "publishTime": "2023-06-14T03:00:33Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "MpTGdaHb1CkhrZm2M9ocjqDtiIo",
+            "etag": "Wyslfw2TYgutLM3LWjc61Ku-xMs",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "-JlUxVj64O4"
+                "videoId": "FgGLhPBcNMo"
             },
             "snippet": {
-                "publishedAt": "2023-06-20T23:00:00Z",
-                "channelId": "UCGwy3aG0otCibKPyuR0q1nA",
-                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 2023년 6월 21일 실시간 인기차트 🎵🥑 KPOP 발라드, 팝송, 힙합, 아이돌 그룹 | 노래모음 최신가요, 광고없는 멜론차트 플레이리스트 | PLAYLIST",
-                "description": "즐거운 하루 보내세요! 구독과 좋아요 댓글은 채널 운영에 큰 힘이 됩니다! ❗️ 몇 가지 작은 메모! → 조회수 1만 회부터 유튜브 측에서 ...",
+                "publishedAt": "2023-06-20T22:03:55Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[#퀸덤퍼즐] 라붐 상상더하기 모르는 군인은 없다(?)",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [#퀸덤퍼즐] 라붐 상상더하기 모르는 군인은 없다(?) 걸그룹 최상의 조합 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/-JlUxVj64O4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/FgGLhPBcNMo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/-JlUxVj64O4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/FgGLhPBcNMo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/-JlUxVj64O4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/FgGLhPBcNMo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "1H Kpop",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-20T23:00:00Z"
+                "publishTime": "2023-06-20T22:03:55Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "-hft-YpMEB-CgwLANlDGUGSDWQ4",
+            "etag": "ERnZeU2JuY2hblohARW0qur8GPA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "qOmBPWepxEY"
+                "videoId": "3LV4D5eEDfc"
             },
             "snippet": {
-                "publishedAt": "2023-05-16T11:51:47Z",
-                "channelId": "UCVut4hqvrjQC4qDE3oc5qig",
-                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 여돌의 축복은 끝이 없다🔥 5월 최신 여돌 신곡 내가 싹 다 모아왔어! kpop playlist",
-                "description": "playlist #여돌 #여돌플리 #플레이리스트 #아이브 #뉴진스 #ditto #NewJeans #르세라핌 #여돌플레이리스트 #kpop #신곡모음 #음악 ...",
+                "publishedAt": "2023-06-28T03:50:42Z",
+                "channelId": "UCPl0iB4LRUfc31rI5zqIuxA",
+                "title": "【 #퀸덤퍼즐 同時視聴枠】Queendom Puzzle 第3話【#mnet /#kpop /#vtuber】",
+                "description": "Queendom Puzzle見て行きます。 21:00~ バンドリコラボはなんじゃろな配信。 AKBの朱里ちゃんやNMBのみるる ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/qOmBPWepxEY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/3LV4D5eEDfc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/qOmBPWepxEY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/3LV4D5eEDfc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/qOmBPWepxEY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/3LV4D5eEDfc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "때껄룩ᴛᴀᴋᴇ ᴀ ʟᴏᴏᴋ",
+                "channelTitle": "Seibon Ch. 瀬ノ谷柊晴",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-05-16T11:51:47Z"
+                "publishTime": "2023-06-28T03:50:42Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "JwcKTfHBNNens6cyyK1V7L8DQrM",
+            "etag": "XdQXhl7ud8D31NYvHmklPbAshRI",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "riUvubzrO2E"
+                "videoId": "l97tGywMkTw"
             },
             "snippet": {
-                "publishedAt": "2023-06-27T23:00:31Z",
-                "channelId": "UCGwy3aG0otCibKPyuR0q1nA",
-                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 2023년 6월 28일 실시간 인기차트 🎵🍉 KPOP 발라드, 팝송, 힙합, 아이돌 그룹 | 노래모음 최신가요, 광고없는 멜론차트 플레이리스트 | PLAYLIST",
-                "description": "즐거운 하루 보내세요! 구독과 좋아요 댓글은 채널 운영에 큰 힘이 됩니다! ❗️ 몇 가지 작은 메모! → 조회수 1만 회부터 유튜브 측에서 ...",
+                "publishedAt": "2023-06-22T15:15:16Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "&#39;최초 공개&#39; 강다니엘 - SOS #엠카운트다운 EP.802 | Mnet 230622 방송",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f M COUNTDOWN｜Ep.802 강다니엘 - 에스오에스 (KANGDANIEL ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/riUvubzrO2E/default.jpg",
+                        "url": "https://i.ytimg.com/vi/l97tGywMkTw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/riUvubzrO2E/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/l97tGywMkTw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/riUvubzrO2E/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/l97tGywMkTw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "1H Kpop",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-27T23:00:31Z"
+                "publishTime": "2023-06-22T15:15:16Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "wOVa0TGShGp93ErSloYEdobxgFI",
+            "etag": "6Up5XnJoNmP0bI2RSqAAL3G2phY",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "giUacbkMQ8w"
+                "videoId": "T-E9wr2iI_Q"
             },
             "snippet": {
-                "publishedAt": "2023-05-21T15:16:39Z",
-                "channelId": "UCBt-M9TKEjaByElFXX-DDTg",
-                "title": "이걸 초견으로하라고?ㅋㅋㅋ 미공개 kpop 진짜 초견 배틀 클립 대공개  special Ray chen&#39;s real sight reading unreleased clip lol",
-                "description": "shorts.",
+                "publishedAt": "2023-05-18T12:04:45Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "&#39;최초 공개&#39; (여자)아이들 - Allergy #엠카운트다운 EP.797 | Mnet 230518 방송",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f M COUNTDOWN｜Ep.797 (여자)아이들 - 알러지 ((G)I-DLE - Allergy) ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/giUacbkMQ8w/default.jpg",
+                        "url": "https://i.ytimg.com/vi/T-E9wr2iI_Q/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/giUacbkMQ8w/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/T-E9wr2iI_Q/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/giUacbkMQ8w/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/T-E9wr2iI_Q/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "또모TOWMOO",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-05-21T15:16:39Z"
+                "publishTime": "2023-05-18T12:04:45Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "6tYZGlhGrSdlt3PDkthkIK7YNbE",
+            "etag": "crPMAA4pt77x6wu3Wkgs_bCyNa0",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "5WQTEu55YK4"
+                "videoId": "YYjmYJ6Ja-s"
             },
             "snippet": {
-                "publishedAt": "2023-06-21T09:00:03Z",
-                "channelId": "UC2m30-5KvDn_p3jafegQZlA",
-                "title": "【𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭】 ⚡플리 고민할 시간도 없다⚡ 벼락치기 전용 케이팝 플리ㅣ노동요ㅣ𝗺𝗼𝘁𝗲𝗺𝗼𝘁𝗲",
-                "description": "눈 감았다 떠보니 시험이 코앞?! 플리 고민할 시간도 없는 여러분을 위해 케이팝 노동요 플리를 준비해봤어요 ...",
+                "publishedAt": "2023-06-20T22:11:24Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[#퀸덤퍼즐] 케이팝 덕후들 심장 울리는 도입부",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [#퀸덤퍼즐] 케이팝 덕후들 심장 울리는 도입부 걸그룹 최상의 조합을 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/5WQTEu55YK4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/YYjmYJ6Ja-s/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/5WQTEu55YK4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/YYjmYJ6Ja-s/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/5WQTEu55YK4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/YYjmYJ6Ja-s/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "모트모트TV",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-21T09:00:03Z"
+                "publishTime": "2023-06-20T22:11:24Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "ukWzqNZZ7JQt-_qIkxajTAOkWGk",
+            "etag": "USFg-WyLioWSL0_P-GuO9W_ceNk",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "SJjrFlmTEOI"
+                "videoId": "le1A-y96HSc"
             },
             "snippet": {
-                "publishedAt": "2023-06-27T11:30:19Z",
-                "channelId": "UCa7a1ekrFPdvDW76lEHjo3A",
-                "title": "คลาสเรียนเต้น K-POP - I AM - IVE - Dance Cover",
-                "description": "เรียนเต้นออนไลน์ได้ที่: https://www.theinner.Studio ▷ รับสมัครผู้สอนเต้น: https://www.theinner.Studio/teacher ▷ SUBSCRIBE กดติดตาม: ...",
+                "publishedAt": "2023-06-22T15:18:53Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "백예빈 - 비행구름 #엠카운트다운 EP.802 | Mnet 230622 방송",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f M COUNTDOWN｜Ep.802 백예빈 - 비행구름 (Baek Ye Bin - Contrail) ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/SJjrFlmTEOI/default.jpg",
+                        "url": "https://i.ytimg.com/vi/le1A-y96HSc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/SJjrFlmTEOI/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/le1A-y96HSc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/SJjrFlmTEOI/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/le1A-y96HSc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "The Inner Studio",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-27T11:30:19Z"
+                "publishTime": "2023-06-22T15:18:53Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "whKGG0ef9uMUVMK81QVmBcuw2e4",
+            "etag": "c067xo8jAStyMg2CiDZEF6N-xh8",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "8CfsjrTMu8A"
+                "videoId": "BQ_sImJFfS0"
             },
             "snippet": {
-                "publishedAt": "2023-06-28T23:00:04Z",
-                "channelId": "UCGwy3aG0otCibKPyuR0q1nA",
-                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 2023년 6월 29일 실시간 인기차트 🎵🍐 KPOP 발라드, 팝송, 힙합, 아이돌 그룹 | 노래모음 최신가요, 광고없는 멜론차트 플레이리스트 | PLAYLIST",
-                "description": "즐거운 하루 보내세요! 구독과 좋아요 댓글은 채널 운영에 큰 힘이 됩니다! ❗️ 몇 가지 작은 메모! → 조회수 1만 회부터 유튜브 측에서 ...",
+                "publishedAt": "2023-06-20T22:10:02Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[#퀸덤퍼즐] 건사피장 도입부 치트키 걔",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [#퀸덤퍼즐] 건사피장 도입부 치트키 걔 걸그룹 최상의 조합을 완성하라!",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/8CfsjrTMu8A/default.jpg",
+                        "url": "https://i.ytimg.com/vi/BQ_sImJFfS0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/8CfsjrTMu8A/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/BQ_sImJFfS0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/8CfsjrTMu8A/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/BQ_sImJFfS0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "1H Kpop",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-28T23:00:04Z"
+                "publishTime": "2023-06-20T22:10:02Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "cSBqt8DVtUjO7aixDHnp15-KBj8",
+            "etag": "49_Iqu8GEYaklh2bJGz3iLi5PYw",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "0x7vz521IhA"
+                "videoId": "rdj4PcsoIjo"
             },
             "snippet": {
-                "publishedAt": "2023-06-22T07:24:08Z",
-                "channelId": "UCnSMZNkfxaOc_YJPFDT-4jg",
-                "title": "[𝒑𝒍𝒂𝒚𝒍𝒊𝒔𝒕] 6월 최신 케이팝 여돌모음 신나는 노동요 kpop playlist 광고X",
-                "description": "playlist #광고없는노래모음 #노동요.",
+                "publishedAt": "2023-06-23T10:47:50Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "ˋˏ 왔다 왔어 ˎˊ˗ 주헌 최애의 아이 챌린지☆ۣۜ.๖ #엠카운트다운 #MCOUNTDOWN #주헌 #몬스타엑스 #JOOHONEY #MONSTAX #최애의아이 #최애의아이챌린지",
+                "description": "Mnet 유튜브 구독하기: http://www.youtube.com/subscription_center?add_user=Mnet Like Facebook and Twitter for more k-pop ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/0x7vz521IhA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/rdj4PcsoIjo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/0x7vz521IhA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/rdj4PcsoIjo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/0x7vz521IhA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/rdj4PcsoIjo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "판타스틱코인노래방",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-22T07:24:08Z"
+                "publishTime": "2023-06-23T10:47:50Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "2ADEAk0OxweafBdl72vqBir_hko",
+            "etag": "WXoumQGOu6f5PUtQMSLNsQ8T-zo",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "PAmrRUh5TBQ"
+                "videoId": "q7jzIvOI2Pk"
             },
             "snippet": {
-                "publishedAt": "2023-06-01T01:00:08Z",
-                "channelId": "UCGwy3aG0otCibKPyuR0q1nA",
-                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 2023년 6월 1주차 여자아이돌 걸그룹 노래모음 🎵🌺 KPOP 에스파, (여자)아이들, 르세라핌, 아이브, 뉴진스, 피프티피프티 | 플레이리스트 PLAYLIST",
-                "description": "즐거운 하루 보내세요! 구독과 좋아요 댓글은 채널 운영에 큰 힘이 됩니다! #걸그룹노래모음 #걸그룹 #여자아이돌노래모음 #여자 ...",
+                "publishedAt": "2022-10-20T11:24:25Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "&#39;최초 공개&#39; 상상 그 이상★ &#39;(여자)아이들&#39;의 &#39;Nxde&#39; 무대 #엠카운트다운 EP.775 | Mnet 221020 방송",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f M COUNTDOWN｜Ep.775 (여자)아이들 - 누드 ((G)I-DLE - Nxde) ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/PAmrRUh5TBQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/q7jzIvOI2Pk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/PAmrRUh5TBQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/q7jzIvOI2Pk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/PAmrRUh5TBQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/q7jzIvOI2Pk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "1H Kpop",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-01T01:00:08Z"
+                "publishTime": "2022-10-20T11:24:25Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "mZbaHR5KB3KJWrOksfsDNgMdRpI",
+            "etag": "J81n_QCt0UbWTOiAo5O94BHeg1s",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "_PJBfZignUY"
+                "videoId": "_JlUgs50epc"
             },
             "snippet": {
-                "publishedAt": "2023-06-14T23:00:11Z",
-                "channelId": "UCGwy3aG0otCibKPyuR0q1nA",
-                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 2023년 6월 15일 실시간 인기차트 🎵🍋 KPOP 발라드, 팝송, 힙합, 아이돌 그룹 | 노래모음 최신가요, 광고없는 멜론차트 플레이리스트 | PLAYLIST",
-                "description": "즐거운 하루 보내세요! 구독과 좋아요 댓글은 채널 운영에 큰 힘이 됩니다! ❗️ 몇 가지 작은 메모! → 조회수 1만 회부터 유튜브 측에서 ...",
+                "publishedAt": "2023-06-27T15:48:19Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[#퀸덤퍼즐/풀버전] ♬ 파이팅 해야지 - 이두근 (수진, 엘리, 유키, 주이, 쥬리, 지우) @리믹스배틀 #QUEENDOMPUZZLE",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [퀸덤퍼즐/풀버전] ♬ 파이팅 해야지 - 이두근 (수진, 엘리, 유키, 주이, ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/_PJBfZignUY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/_JlUgs50epc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/_PJBfZignUY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/_JlUgs50epc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/_PJBfZignUY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/_JlUgs50epc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "1H Kpop",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-14T23:00:11Z"
+                "publishTime": "2023-06-27T15:48:19Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "MEDE04hk8OB9sc2HfChE1AG3ZU0",
+            "etag": "dOd3T8xroWNqKrnuhj-LSxLz0rY",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "b2jpxJ4SxSk"
+                "videoId": "oA2QVj0J_uQ"
             },
             "snippet": {
-                "publishedAt": "2023-06-05T23:00:19Z",
-                "channelId": "UCGwy3aG0otCibKPyuR0q1nA",
-                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 2023년 6월 6일 실시간 인기차트 🎵🍉 KPOP 발라드, 팝송, 힙합, 아이돌 그룹 | 노래모음 최신가요, 광고없는 멜론차트 플레이리스트 | PLAYLIST",
-                "description": "즐거운 하루 보내세요! 구독과 좋아요 댓글은 채널 운영에 큰 힘이 됩니다! ❗️ 몇 가지 작은 메모! → 조회수 1만 회부터 유튜브 측에서 ...",
+                "publishedAt": "2023-06-22T08:29:54Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[#퀸덤퍼즐] 포커페이스 반대말 보라페이스",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [#퀸덤퍼즐] 포커페이스 반대말 보라페이스 걸그룹 최상의 조합을 완성 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/b2jpxJ4SxSk/default.jpg",
+                        "url": "https://i.ytimg.com/vi/oA2QVj0J_uQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/b2jpxJ4SxSk/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/oA2QVj0J_uQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/b2jpxJ4SxSk/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/oA2QVj0J_uQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "1H Kpop",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-05T23:00:19Z"
+                "publishTime": "2023-06-22T08:29:54Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "-iKkjOrgiz94unUBvIzPCNY8WGI",
+            "etag": "ZO9wTKDK_weYfuM6f2vM0xKxnRc",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "cAJz3D3DB8c"
+                "videoId": "mwu4l0fDjf0"
             },
             "snippet": {
-                "publishedAt": "2023-05-21T01:00:22Z",
-                "channelId": "UCGwy3aG0otCibKPyuR0q1nA",
-                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 2023년 5월 4주차 여자아이돌 걸그룹 노래모음 🎵🌺 KPOP (여자)아이들, 르세라핌, 에스파, 아이브, 피프티피프티, 뉴진스 | 플레이리스트 PLAYLIST",
-                "description": "즐거운 하루 보내세요! 구독과 좋아요 댓글은 채널 운영에 큰 힘이 됩니다! #걸그룹노래모음 #걸그룹 #여자아이돌노래모음 #여자 ...",
+                "publishedAt": "2023-05-25T10:32:03Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "&#39;최초 공개&#39; 드림캐쳐 - BONVOYAGE #엠카운트다운 EP.798 | Mnet 230525 방송",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f M COUNTDOWN｜Ep.798 드림캐쳐 - 본보야지 (Dreamcatcher ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/cAJz3D3DB8c/default.jpg",
+                        "url": "https://i.ytimg.com/vi/mwu4l0fDjf0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/cAJz3D3DB8c/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mwu4l0fDjf0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/cAJz3D3DB8c/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mwu4l0fDjf0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "1H Kpop",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-05-21T01:00:22Z"
+                "publishTime": "2023-05-25T10:32:03Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "2QUZ8LnCl8bSTxNHOaHG6ZS1ew4",
+            "etag": "7J-XD29neuB0civ0-VVPayvIM50",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "XndtUkci5f4"
+                "videoId": "cymzyOnFraI"
             },
             "snippet": {
-                "publishedAt": "2023-06-28T21:00:18Z",
-                "channelId": "UCCMLAUv0vaU5P5bRu7WGG0Q",
-                "title": "[광고없는 실시간 인기차트]  [KPOP PLAYLIST]  20230629인기차트 TOP100, 20230629 Popular Chart Top100(korean Lyrics)",
-                "description": "구독 좋아요 꾸욱~~~감사합니다. ✔️조회 수 1만 회부터 유튜브 측에서 광고를 붙일 수 있습니다. ✔️광고로 발생한 수익은 전부 ...",
+                "publishedAt": "2023-06-20T22:00:05Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[#퀸덤퍼즐] 쥬리 나 울 것 같아 (눈물주의)",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [#퀸덤퍼즐] 쥬리 나 울 것 같아 (눈물주의) 걸그룹 최상의 조합을 완성 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/XndtUkci5f4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/cymzyOnFraI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/XndtUkci5f4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cymzyOnFraI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/XndtUkci5f4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cymzyOnFraI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "우탄이차트",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-28T21:00:18Z"
+                "publishTime": "2023-06-20T22:00:05Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "Hg1YI2KQ_mIFAxJBXR99t2_ncX4",
+            "etag": "17ctvI98AwaX0I83trFAfER9IJA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "zGo7QWzsWbE"
+                "videoId": "aXaU6ZFOLlk"
             },
             "snippet": {
-                "publishedAt": "2022-11-28T10:00:38Z",
-                "channelId": "UCDdtq91zPKK6urACRvsX4Mg",
-                "title": "청주 성안길 랜덤플레이댄스 KPOP RANDOM PLAY DANCE in Cheongju, KOREA 2022",
-                "description": "Please subscribe to us   We gonna keep going with more people!! Please comment who's your favorite dancer! 참가자들에 대한 ...",
+                "publishedAt": "2023-05-18T11:05:58Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "&#39;최초 공개&#39; (여자)아이들 - 퀸카 (Queencard) #엠카운트다운 EP.797 | Mnet 230518 방송",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f M COUNTDOWN｜Ep.797 (여자)아이들 - 퀸카 ((G)I-DLE ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/zGo7QWzsWbE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/aXaU6ZFOLlk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/zGo7QWzsWbE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/aXaU6ZFOLlk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/zGo7QWzsWbE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/aXaU6ZFOLlk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "딩가딩가 스튜디오 DGDG Studio",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-11-28T10:00:38Z"
+                "publishTime": "2023-05-18T11:05:58Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "B_lQD56GEHGl5jm0PAT_HVQoIws",
+            "etag": "V9fHnD_CdWE9xjhUhRWZGt0fjao",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "rTqf6jD_tfY"
+                "videoId": "CxxkC_0gB2s"
             },
             "snippet": {
-                "publishedAt": "2023-06-22T23:00:23Z",
-                "channelId": "UCGwy3aG0otCibKPyuR0q1nA",
-                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 2023년 6월 23일 실시간 인기차트 🎵🥝 KPOP 발라드, 팝송, 힙합, 아이돌 그룹 | 노래모음 최신가요, 광고없는 멜론차트 플레이리스트 | PLAYLIST",
-                "description": "즐거운 하루 보내세요! 구독과 좋아요 댓글은 채널 운영에 큰 힘이 됩니다! ❗️ 몇 가지 작은 메모! → 조회수 1만 회부터 유튜브 측에서 ...",
+                "publishedAt": "2023-06-27T15:48:14Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[#퀸덤퍼즐/풀버전] ♬ Nxde - 쉿 Yes I&#39;m a queen (나나, 도화, 수윤, 지한) @리믹스배틀 #QUEENDOMPUZZLE",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [퀸덤퍼즐/풀버전] ♬ Nxde - 쉿 Yes I'm a queen (나나, 도화, 수윤, 지한) ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/rTqf6jD_tfY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/CxxkC_0gB2s/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/rTqf6jD_tfY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/CxxkC_0gB2s/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/rTqf6jD_tfY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/CxxkC_0gB2s/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "1H Kpop",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-22T23:00:23Z"
+                "publishTime": "2023-06-27T15:48:14Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "ZGX-jqGoy0MtDfzpq9TwRW33AiQ",
+            "etag": "uADjaNxVZPpMa5zpKNovLOpW_Ns",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "dE5sDK1WbDs"
+                "videoId": "EdpeJVdEzec"
             },
             "snippet": {
-                "publishedAt": "2023-05-12T23:30:09Z",
-                "channelId": "UCGwy3aG0otCibKPyuR0q1nA",
-                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 2023년 5월 13일 실시간 인기차트 🎵🍋 KPOP 발라드, 팝송, 힙합, 아이돌 그룹 | 노래모음 최신가요, 광고없는 멜론차트 플레이리스트 | PLAYLIST",
-                "description": "즐거운 하루 보내세요! 구독과 좋아요 댓글은 채널 운영에 큰 힘이 됩니다! ❗️ 몇 가지 작은 메모! → 조회수 1만 회부터 유튜브 측에서 ...",
+                "publishedAt": "2023-05-25T11:01:46Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "&#39;1위&#39; (여자)아이들 - 퀸카 (Queencard) #엠카운트다운 EP.798 | Mnet 230525 방송",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f M COUNTDOWN｜Ep.798 (여자)아이들 - 퀸카 ((G)I-DLE ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/dE5sDK1WbDs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/EdpeJVdEzec/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/dE5sDK1WbDs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EdpeJVdEzec/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/dE5sDK1WbDs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EdpeJVdEzec/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "1H Kpop",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-05-12T23:30:09Z"
+                "publishTime": "2023-05-25T11:01:46Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "vL9cJAFCz8tRTNl7tzYn3kpk8Wc",
+            "etag": "Pv39dAhiqQI7hTZhHn09wD1zuSw",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "425_JkK_3_o"
+                "videoId": "RzeFY37-Mak"
             },
             "snippet": {
-                "publishedAt": "2023-06-17T03:41:34Z",
-                "channelId": "UC7Szf6DjtBZPN9mZ0WMDpOg",
-                "title": "[𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁] 또 요즘 케이팝 싸악 긁어서 모아옴 ..! K-POP 플레이리스트",
-                "description": "영상의 수익은 모두 저작권자에게 돌아갑니다 ✸ ✸ 타임라인은 댓글에 있습니다 ✸ ✸ 영상의 조회수가 1만회가 넘을 시 자동으로 ...",
+                "publishedAt": "2023-05-18T10:59:31Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "&#39;1위&#39; aespa - Spicy #엠카운트다운 EP.797 | Mnet 230518 방송",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f M COUNTDOWN｜Ep.797 에스파 - 스파이시 (aespa - Spicy) World ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/425_JkK_3_o/default.jpg",
+                        "url": "https://i.ytimg.com/vi/RzeFY37-Mak/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/425_JkK_3_o/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/RzeFY37-Mak/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/425_JkK_3_o/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/RzeFY37-Mak/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "인앤아웃",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-17T03:41:34Z"
+                "publishTime": "2023-05-18T10:59:31Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "Tw0VR4MWwkEK821Z2tAsBylWKoM",
+            "etag": "qfgCXub8C5LALeeyar5x60IzKaE",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "JX2kOMT5m74"
+                "videoId": "5MGr54kHBQk"
             },
             "snippet": {
-                "publishedAt": "2023-05-28T22:00:12Z",
-                "channelId": "UCI3EraKEoTseu10KpKgBY-g",
-                "title": "실시간 인기차트 가요 (2023년 5월 29차) 최신가요 노래모음 + 가요 플레이리스트 | KPOP CHART | PLAYLIST",
-                "description": "",
+                "publishedAt": "2023-04-27T10:44:31Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "&#39;1위&#39; IVE - I AM #엠카운트다운 EP.794 | Mnet 230427 방송",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f M COUNTDOWN｜Ep.794 아이브 - 아이 엠 (IVE - I AM) World No.1 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/JX2kOMT5m74/default.jpg",
+                        "url": "https://i.ytimg.com/vi/5MGr54kHBQk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/JX2kOMT5m74/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5MGr54kHBQk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/JX2kOMT5m74/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5MGr54kHBQk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "낭스차트 NangsChart",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-05-28T22:00:12Z"
+                "publishTime": "2023-04-27T10:44:31Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "_sA7veXynLKTbjuj2uJ_avizegs",
+            "etag": "7mBNKRI-XBNim74P6f7uFEULauw",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "GmfFQA1JsPQ"
+                "videoId": "2ZSXs4vre2A"
             },
             "snippet": {
-                "publishedAt": "2023-06-25T23:00:09Z",
-                "channelId": "UCGwy3aG0otCibKPyuR0q1nA",
-                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 2023년 6월 26일 실시간 인기차트 🎵🍋 KPOP 발라드, 팝송, 힙합, 아이돌 그룹 | 노래모음 최신가요, 광고없는 멜론차트 플레이리스트 | PLAYLIST",
-                "description": "즐거운 하루 보내세요! 구독과 좋아요 댓글은 채널 운영에 큰 힘이 됩니다! ❗️ 몇 가지 작은 메모! → 조회수 1만 회부터 유튜브 측에서 ...",
+                "publishedAt": "2023-02-02T14:00:02Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[1회/풀직캠] G그룹 &#39;위에화&#39; ♬영웅(Kick it) - NCT 127 @스타 레벨 테스트",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f ▷ NAVER TV : https://tv.naver.com/cjenm.boysplanet ▷ YouTube ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/GmfFQA1JsPQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/2ZSXs4vre2A/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/GmfFQA1JsPQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/2ZSXs4vre2A/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/GmfFQA1JsPQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/2ZSXs4vre2A/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "1H Kpop",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-25T23:00:09Z"
+                "publishTime": "2023-02-02T14:00:02Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "os9qpDqhnxFoWTxNSXBz74rGEGM",
+            "etag": "X_8-6RKDlv-KJCzf0z-n82_3oZo",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "at7FmuTrtXk"
+                "videoId": "lyLyYjKr_c4"
             },
             "snippet": {
-                "publishedAt": "2023-06-24T23:00:02Z",
-                "channelId": "UCGwy3aG0otCibKPyuR0q1nA",
-                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 2023년 6월 25일 실시간 인기차트 🎵🍓 KPOP 발라드, 팝송, 힙합, 아이돌 그룹 | 노래모음 최신가요, 광고없는 멜론차트 플레이리스트 | PLAYLIST",
-                "description": "즐거운 하루 보내세요! 구독과 좋아요 댓글은 채널 운영에 큰 힘이 됩니다! ❗️ 몇 가지 작은 메모! → 조회수 1만 회부터 유튜브 측에서 ...",
+                "publishedAt": "2021-08-06T12:42:28Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[1회] J그룹 ‘크리스탈 걸즈’ ♬FANCY_TWICE @플래닛 탐색전Girls Planet 999 | Mnet 210806 방송 [ENG]",
+                "description": "[1회] J그룹 '크리스탈 걸즈' ♬FANCY_TWICE @플래닛 탐색전 당신은 누구의 꿈을 지킬 것인가 〈걸스플래닛999 : 소녀대전〉 매주 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/at7FmuTrtXk/default.jpg",
+                        "url": "https://i.ytimg.com/vi/lyLyYjKr_c4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/at7FmuTrtXk/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lyLyYjKr_c4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/at7FmuTrtXk/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lyLyYjKr_c4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "1H Kpop",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-24T23:00:02Z"
+                "publishTime": "2021-08-06T12:42:28Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "M-jKeArcIQxmsfbeoiCo3dPCWog",
+            "etag": "85xHl5875bu5PTETLCJLb4CDJtM",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "3SzMq6lqXw8"
+                "videoId": "2ssijwETM0s"
             },
             "snippet": {
-                "publishedAt": "2023-06-25T05:02:36Z",
-                "channelId": "UC5KysxX22AHuUMzP9fS9YDg",
-                "title": "케이팝 랜덤플레이댄스 경산 단오제🌈 | KPOP RANDOM PLAY DANCE in Gyeongsan KOREA | 엔제이 ENJ",
-                "description": "시청해주셔서 감사합니다   Insta @thejofficial_ #랜덤플레이댄스 #kpoprandomdance #엔제이 #enj.",
+                "publishedAt": "2023-03-30T15:04:14Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "&#39;1위/4K&#39; 지민 (Jimin) - Like Crazy #엠카운트다운 EP.790 | Mnet 230330 방송",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f M COUNTDOWN｜Ep.790 지민 - 라이크 크레이지 (Jimin - Like Crazy) ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/3SzMq6lqXw8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/2ssijwETM0s/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/3SzMq6lqXw8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/2ssijwETM0s/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/3SzMq6lqXw8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/2ssijwETM0s/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "엔제이 ENJ",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-25T05:02:36Z"
+                "publishTime": "2023-03-30T15:04:14Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "VUyD5xtWtCuqsvbLArhRq47N86I",
+            "etag": "CW3Yblo4fCwrUXOHY-omuQJ3HJM",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "25LSR-OdYqU"
+                "videoId": "BboG0l1YwOk"
             },
             "snippet": {
-                "publishedAt": "2023-06-21T23:00:01Z",
-                "channelId": "UCGwy3aG0otCibKPyuR0q1nA",
-                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 2023년 6월 22일 실시간 인기차트 🎵🍑 KPOP 발라드, 팝송, 힙합, 아이돌 그룹 | 노래모음 최신가요, 광고없는 멜론차트 플레이리스트 | PLAYLIST",
-                "description": "즐거운 하루 보내세요! 구독과 좋아요 댓글은 채널 운영에 큰 힘이 됩니다! ❗️ 몇 가지 작은 메모! → 조회수 1만 회부터 유튜브 측에서 ...",
+                "publishedAt": "2023-04-06T12:45:03Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[10회] 여러분의 마음을 꾹~ 눌러드릴 ♬꾹꾹이(Gguggugi) - Switch @아티스트 배틀 | Mnet 230406 방송 [EN/JP]",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f ▷ NAVER TV : https://tv.naver.com/cjenm.boysplanet ▷ YouTube ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/25LSR-OdYqU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/BboG0l1YwOk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/25LSR-OdYqU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/BboG0l1YwOk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/25LSR-OdYqU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/BboG0l1YwOk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "1H Kpop",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-21T23:00:01Z"
+                "publishTime": "2023-04-06T12:45:03Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "kX8V6Lzb6ysqPhyB2WbfGN0iCTM",
+            "etag": "V6sgBf2Oy6--9FKi8IA-SJnhhMc",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "cYhXI7z9l3s"
+                "videoId": "Cc478k7KtN0"
             },
             "snippet": {
-                "publishedAt": "2023-04-28T05:00:08Z",
-                "channelId": "UCnEd4JFK-GmGBFuFOAwS2-A",
-                "title": "[실제 아이돌과 랜덤플레이댄스] K-POP RANDOM PLAY DANCE with 드리핀(DRIPPIN) | 랜플댄 💃🕺",
-                "description": "실제 아이돌과 랜덤플레댄스를 한다면....? 드리핀(DRIPPIN)과 놀아줘클럽의 랜플댄! 과연 K-POP RANDOM PLAY DANCE의 우승팀 ...",
+                "publishedAt": "2023-04-06T13:32:59Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[10회] 설탕 한 스푼 더 추가해♥ ♬Say Yes! - Say My Name @아티스트 배틀 | Mnet 230406 방송 [EN/JP]",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f ▷ NAVER TV : https://tv.naver.com/cjenm.boysplanet ▷ YouTube ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/cYhXI7z9l3s/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Cc478k7KtN0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/cYhXI7z9l3s/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Cc478k7KtN0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/cYhXI7z9l3s/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Cc478k7KtN0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "포켓TV / Pocket TV",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-04-28T05:00:08Z"
+                "publishTime": "2023-04-06T13:32:59Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "DOsRh9BYhgMUKlpYrQPx0LqY3Ag",
+            "etag": "SPmlaxDJdcfhlB0FkQOdXYQ5S-g",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "9_0PEyDCP00"
+                "videoId": "7ICLE78QmTQ"
             },
             "snippet": {
-                "publishedAt": "2023-05-30T12:00:07Z",
-                "channelId": "UCZSZza3zpClu-JNtEZt7-Mg",
-                "title": "Захотели повторить тренд ✨ #kpop #team #coverdance #dance #кавердэнс #команда",
-                "description": "",
+                "publishedAt": "2023-04-06T13:58:22Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[10회] 덥고 뜨겁게(?) 섹시 한도 초과 ♬Overdose - Over Me @아티스트 배틀 | Mnet 230406 방송 [EN/JP]",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f ▷ NAVER TV : https://tv.naver.com/cjenm.boysplanet ▷ YouTube ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/9_0PEyDCP00/default.jpg",
+                        "url": "https://i.ytimg.com/vi/7ICLE78QmTQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/9_0PEyDCP00/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7ICLE78QmTQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/9_0PEyDCP00/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7ICLE78QmTQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "ELEVATE ",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-05-30T12:00:07Z"
+                "publishTime": "2023-04-06T13:58:22Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "jqO8QbzLXz_9iwHImAPsAyMPIQs",
+            "etag": "IDniENC8M-m2GD2tJneeQLugxms",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "N1Xhr_zL5Io"
+                "videoId": "OCi8E4AD13M"
             },
             "snippet": {
-                "publishedAt": "2023-05-04T10:00:25Z",
-                "channelId": "UCujv2OAbV3IKqjJ51C7iT5A",
-                "title": "【衝撃】とんでもない放送事故を起こしたKPOP男性アイドル7人",
-                "description": "今回は「とんでもない放送事故を起こしたKPOP男性アイドル」を 厳選して7人ご紹介していきます！ #kpop #韓国アイドル ...",
+                "publishedAt": "2023-06-20T21:58:41Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[#퀸덤퍼즐] 13년차 선배는 핸드마이크 들고도 가능",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [#퀸덤퍼즐] 13년차 선배는 핸드마이크 들고도 가능 걸그룹 최상의 조합 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/N1Xhr_zL5Io/default.jpg",
+                        "url": "https://i.ytimg.com/vi/OCi8E4AD13M/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/N1Xhr_zL5Io/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/OCi8E4AD13M/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/N1Xhr_zL5Io/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/OCi8E4AD13M/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "kpopちゃん",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-05-04T10:00:25Z"
+                "publishTime": "2023-06-20T21:58:41Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "jhpVPigTqL-oMdu8WSiV6bFp8wM",
+            "etag": "rtqySA5AUphy-LwL8CRbGHkOcbM",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "HHujMg3xAGg"
+                "videoId": "Q1pznt-uMSo"
             },
             "snippet": {
-                "publishedAt": "2023-03-24T09:00:15Z",
-                "channelId": "UCApTmoO1MUiovbro8Q3KFkQ",
-                "title": "すっぴんの姿が意外だったK-POPアイドル3選 #Shorts",
-                "description": "チャンネル登録してくれたら、BTSに会わせてあげるよ？(嘘) ↓ちっくとっく https://www.tiktok.com/@otaku_tatsuya_k ...",
+                "publishedAt": "2023-03-08T16:00:16Z",
+                "channelId": "UCim7bsDOy4OjN0ry016O-QA",
+                "title": "1st elimination results pt.1 #boysplanet #mnet #kpop",
+                "description": "If you have any video requests, feel free to submit it: https://forms.gle/pRsXoqFdUUMAC3tq7 Credits: Boys planet \"here I am\" ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/HHujMg3xAGg/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Q1pznt-uMSo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/HHujMg3xAGg/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Q1pznt-uMSo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/HHujMg3xAGg/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Q1pznt-uMSo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "けーぽヲタのたつや。",
+                "channelTitle": "Kaesthedict",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-03-24T09:00:15Z"
+                "publishTime": "2023-03-08T16:00:16Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "schyxQbbXxTvBdkO2AIBNhr2hkM",
+            "etag": "mq58GpgYIpUbSbaTlCJFkUVdKg4",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "6yks313Oq4w"
+                "videoId": "SXfhDIe3wtI"
             },
             "snippet": {
-                "publishedAt": "2023-06-15T07:00:03Z",
-                "channelId": "UCDdtq91zPKK6urACRvsX4Mg",
-                "title": "이탈리아 나폴리 랜덤플레이댄스 KPOP RANDOM PLAY DANCE in Naples, ITALIA 2023",
-                "description": "Please subscribe to us   We gonna keep going with more people!! Please comment who's your favorite dancer! 참가자들에 대한 ...",
+                "publishedAt": "2023-06-27T11:51:50Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[캠프제로베이스원/2회 예고] &#39;너무 아름다운x4 뷰~💙&#39;에서 힐링하는 줄 알았는데... 이번엔 수상한(?) 제주도로 떠난 ZB1✈ #캠프제로베이스원 EP.2",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 매주 목요일 저녁 8시 50분 〈캠프 제로베이스원〉 - #캠프제로베이스 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/6yks313Oq4w/default.jpg",
+                        "url": "https://i.ytimg.com/vi/SXfhDIe3wtI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/6yks313Oq4w/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/SXfhDIe3wtI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/6yks313Oq4w/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/SXfhDIe3wtI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "딩가딩가 스튜디오 DGDG Studio",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-15T07:00:03Z"
+                "publishTime": "2023-06-27T11:51:50Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "kv-ObIIU_Y1o0l2GjP8de4AgObA",
+            "etag": "gwvtcxkbppnWt72FOx4OkaNUVlw",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "xF0gSlsXa5o"
+                "videoId": "bZ73W024Uho"
             },
             "snippet": {
-                "publishedAt": "2023-06-23T21:00:37Z",
-                "channelId": "UCCMLAUv0vaU5P5bRu7WGG0Q",
-                "title": "[광고없는 실시간 인기차트]  [KPOP PLAYLIST]  20230624 인기차트 TOP100, 20230624 Popular Chart Top100(korean Lyrics)",
-                "description": "구독 좋아요 꾸욱~~~감사합니다. ✔️조회 수 1만 회부터 유튜브 측에서 광고를 붙일 수 있습니다. ✔️광고로 발생한 수익은 전부 ...",
+                "publishedAt": "2023-02-09T11:54:37Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[2회] 끈~적한 으른 섹시! K그룹 &#39;개인연습생즈&#39; ♬주문-MIROTIC - 동방신기(TVXQ!) @스타 레벨 테스트 | Mnet 230209 방송 [EN/JP]",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f ▷ NAVER TV : https://tv.naver.com/cjenm.boysplanet ▷ YouTube ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/xF0gSlsXa5o/default.jpg",
+                        "url": "https://i.ytimg.com/vi/bZ73W024Uho/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/xF0gSlsXa5o/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bZ73W024Uho/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/xF0gSlsXa5o/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bZ73W024Uho/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "우탄이차트",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-23T21:00:37Z"
+                "publishTime": "2023-02-09T11:54:37Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "17K32rlJqTBmV1Wiseb5dtmRhUo",
+            "etag": "gC6WzmK1OF51b6PFTIEqg783l4w",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "2QJo5peFVfw"
+                "videoId": "XV6wvo2h62I"
             },
             "snippet": {
-                "publishedAt": "2023-05-08T07:00:00Z",
-                "channelId": "UCDdtq91zPKK6urACRvsX4Mg",
-                "title": "서울 명동 랜덤플레이댄스 KPOP RANDOM PLAY DANCE in Seoul, KOREA 2023",
-                "description": "Please subscribe to us   We gonna keep going with more people!! Please comment who's your favorite dancer! 참가자들에 대한 ...",
+                "publishedAt": "2023-06-29T06:31:08Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[캠프 제로베이스원/2회 선공개] &#39;다 수상한데🔍&#39; &#39;라이어 게임&#39;을 하는데 라이어가 빌런인 것 같아요😈 #캠프제로베이스원 EP.2",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 매주 목요일 저녁 8시 50분 〈캠프 제로베이스원〉 - #캠프제로베이스 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/2QJo5peFVfw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/XV6wvo2h62I/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/2QJo5peFVfw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/XV6wvo2h62I/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/2QJo5peFVfw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/XV6wvo2h62I/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "딩가딩가 스튜디오 DGDG Studio",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-05-08T07:00:00Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "ebty95ccCr4v2IcZ_MFqytEUPNc",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "yz17L-HdMBE"
-            },
-            "snippet": {
-                "publishedAt": "2023-05-19T12:21:46Z",
-                "channelId": "UCdYVeQfGWljD4Uu-r6l6KAg",
-                "title": "[𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭] 🍧 kpop playlist to make you dance 💗",
-                "description": "Hope you like the playlist, have fun when listen! Have a nice day, don't forget to smile video style (credits) - nriki.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/yz17L-HdMBE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/yz17L-HdMBE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/yz17L-HdMBE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "m i i s o",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-05-19T12:21:46Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "0NdmyY50plSNDsoO8kpzHRM24VE",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "9i4dkfUycRA"
-            },
-            "snippet": {
-                "publishedAt": "2022-12-11T07:00:02Z",
-                "channelId": "UCDdtq91zPKK6urACRvsX4Mg",
-                "title": "서울 신촌 랜덤플레이댄스 KPOP RANDOM PLAY DANCE in Seoul, KOREA 2022",
-                "description": "Please subscribe to us   We gonna keep going with more people!! Please comment who's your favorite dancer! 참가자들에 대한 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/9i4dkfUycRA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/9i4dkfUycRA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/9i4dkfUycRA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "딩가딩가 스튜디오 DGDG Studio",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-12-11T07:00:02Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "4LnWcWqgtteOkTnoHvc1fpKrc_M",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "p465Lf5ZlH0"
-            },
-            "snippet": {
-                "publishedAt": "2023-05-23T08:29:55Z",
-                "channelId": "UCDg8ljh8ooMgNyvDIBM7gDg",
-                "title": "СКОЛЬКО ВСЕГО ПЕСЕН У К-ПОП ГРУПП(3 ЧАСТЬ) #kpop#shorts",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/p465Lf5ZlH0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/p465Lf5ZlH0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/p465Lf5ZlH0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "𝙘𝙝𝙚𝙧𝙧𝙮𝙭𝙗𝙡𝙞𝙣𝙠",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-05-23T08:29:55Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "LTWfGuuR8eB3kRPe-CKJbC6YXuU",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "EZxev_8Avi4"
-            },
-            "snippet": {
-                "publishedAt": "2023-06-23T09:19:39Z",
-                "channelId": "UCM046A_jnoUK36hiWVwUR2w",
-                "title": "백예슬 - 나를 사랑했던 사람아 / Kpop / Lyrics / 가사",
-                "description": "이 영상에 대한 수익은 모두 원작자에게 돌아갑니다. * 영상에 사용된 음원 저작권자의 설정에 따라 광고가 표시될 수 있습니다.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/EZxev_8Avi4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/EZxev_8Avi4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/EZxev_8Avi4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "NN Music",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-06-23T09:19:39Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "KIukt4q1_KwYNshrIVcOJCkBCD0",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "47stG8MMcjA"
-            },
-            "snippet": {
-                "publishedAt": "2023-06-26T23:00:02Z",
-                "channelId": "UCGwy3aG0otCibKPyuR0q1nA",
-                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 2023년 6월 27일 실시간 인기차트 🎵🍎 KPOP 발라드, 팝송, 힙합, 아이돌 그룹 | 노래모음 최신가요, 광고없는 멜론차트 플레이리스트 | PLAYLIST",
-                "description": "즐거운 하루 보내세요! 구독과 좋아요 댓글은 채널 운영에 큰 힘이 됩니다! ❗️ 몇 가지 작은 메모! → 조회수 1만 회부터 유튜브 측에서 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/47stG8MMcjA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/47stG8MMcjA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/47stG8MMcjA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "1H Kpop",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-06-26T23:00:02Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "LAFWbkBYv_0dDGSw0LW7XJrfsqI",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "yl9O5LXIL9g"
-            },
-            "snippet": {
-                "publishedAt": "2023-05-09T09:11:34Z",
-                "channelId": "UCM046A_jnoUK36hiWVwUR2w",
-                "title": "이무진 - 잠깐 시간 될까 / Kpop / Lyrics / 가사",
-                "description": "이 영상에 대한 수익은 모두 원작자에게 돌아갑니다. * 영상에 사용된 음원 저작권자의 설정에 따라 광고가 표시될 수 있습니다.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/yl9O5LXIL9g/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/yl9O5LXIL9g/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/yl9O5LXIL9g/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "NN Music",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-05-09T09:11:34Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "l5yMEmS-aAdTmkkVXnzG29F397k",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "K-2Ee8OGVws"
-            },
-            "snippet": {
-                "publishedAt": "2023-06-17T23:00:14Z",
-                "channelId": "UCGwy3aG0otCibKPyuR0q1nA",
-                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 2023년 6월 18일 실시간 인기차트 🎵🍐 KPOP 발라드, 팝송, 힙합, 아이돌 그룹 | 노래모음 최신가요, 광고없는 멜론차트 플레이리스트 | PLAYLIST",
-                "description": "즐거운 하루 보내세요! 구독과 좋아요 댓글은 채널 운영에 큰 힘이 됩니다! ❗️ 몇 가지 작은 메모! → 조회수 1만 회부터 유튜브 측에서 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/K-2Ee8OGVws/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/K-2Ee8OGVws/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/K-2Ee8OGVws/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "1H Kpop",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-06-17T23:00:14Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "8H2YuoR8pGToyH7CETUeDUQiU4w",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "j7Rwwv0bLfA"
-            },
-            "snippet": {
-                "publishedAt": "2023-06-28T16:22:08Z",
-                "channelId": "UC7dCm0yjD2AM3xjv8CQmt1g",
-                "title": "[𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭] ✨🍇 kpop playlist to make you dance 🍇✨",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/j7Rwwv0bLfA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/j7Rwwv0bLfA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/j7Rwwv0bLfA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "m i k a z u",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-06-28T16:22:08Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "ELAkC9eB9-6lwtZBqtrI5OtcxKo",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "6Q7saNcGOBA"
-            },
-            "snippet": {
-                "publishedAt": "2022-12-08T20:00:02Z",
-                "channelId": "UCpQ34afVgk8cRQBjSJ1xuJQ",
-                "title": "12 MIN KPOP DANCE WORKOUT - BTS, BLACKPINK, MAMAMOO (방탄소년단, 블랙핑크, 마마무)",
-                "description": "A full body, DANCE CARDIO workout to popular KPOP songs! Music from BTS (방탄소년단), BLACKPINK (블랙핑크), and ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/6Q7saNcGOBA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/6Q7saNcGOBA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/6Q7saNcGOBA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "MadFit",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-12-08T20:00:02Z"
+                "publishTime": "2023-06-29T06:31:08Z"
             }
         },
         {
@@ -1599,104 +1293,410 @@ export default [
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "XK6jNxlGcfZa7wIfqb7O2iSzg9o",
+            "etag": "rPWhaRwUZ2hzoCKW09ZiM2c9Wuo",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "_XYm_yS5j5E"
+                "videoId": "TTp2ld2U8do"
             },
             "snippet": {
-                "publishedAt": "2023-05-23T09:00:27Z",
-                "channelId": "UCApTmoO1MUiovbro8Q3KFkQ",
-                "title": "2022年最も売れたK-POPグループTOP10 #Shorts",
-                "description": "チャンネル登録してくれたら、BTSに会わせてあげるよ？(嘘) ↓ちっくとっく https://www.tiktok.com/@otaku_tatsuya_k ...",
+                "publishedAt": "2020-11-26T03:00:04Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[2018 MAMA] TOP 10 Most Watched Performances Compilation (조회수 TOP 10 무대 모아보기)",
+                "description": "TOP 1 Most Watched Performance 'BTS - IDOL' TOP 2 Most Watched Performance 'BTS - INTRO + Anpanman' TOP 3 Most ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/_XYm_yS5j5E/default.jpg",
+                        "url": "https://i.ytimg.com/vi/TTp2ld2U8do/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/_XYm_yS5j5E/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/TTp2ld2U8do/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/_XYm_yS5j5E/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/TTp2ld2U8do/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "けーぽヲタのたつや。",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-05-23T09:00:27Z"
+                "publishTime": "2020-11-26T03:00:04Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "4b4xf-iOhfxdoeFv9sDOuwgZaP4",
+            "etag": "oxZOpsn1sjpFUrcL7FGIQA3o7J0",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "Ay21VqHE90g"
+                "videoId": "fpfH8wdeViU"
             },
             "snippet": {
-                "publishedAt": "2023-01-11T17:00:07Z",
-                "channelId": "UCZuqYEgEqd5gwn7ueUCmhlw",
-                "title": "2022 Random Kpop Dance Challenge",
-                "description": "How many dances do you know?! Follow me on social media! @helenpenggg ♡ Instagram: https://instagram.com/helenpenggg/ ...",
+                "publishedAt": "2020-11-27T03:00:12Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[2019 MAMA] TOP 10 Most Watched Performances Compilation (조회수 TOP 10 무대 모아보기)",
+                "description": "TOP 1 Most Watched Performance 'MAMAMOO - HIP REMIX ver.' TOP 2 Most Watched Performance 'TWICE - Feel Special (R&B ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Ay21VqHE90g/default.jpg",
+                        "url": "https://i.ytimg.com/vi/fpfH8wdeViU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Ay21VqHE90g/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/fpfH8wdeViU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Ay21VqHE90g/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/fpfH8wdeViU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Helen Peng",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-01-11T17:00:07Z"
+                "publishTime": "2020-11-27T03:00:12Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "_EepeoRhFfe2UEQUIHt_bEBvvuc",
+            "etag": "wShBANLvmvqmYEh47cu7qK0PlRQ",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "N3-dBYQ4HNY"
+                "videoId": "I2ImOS7fLDA"
             },
             "snippet": {
-                "publishedAt": "2022-02-13T21:30:01Z",
-                "channelId": "UCop7YlkDKuGyCSS_XM-H3VA",
-                "title": "2022 韓國流行音樂 - Kpop韓語排行 2022 - 最近很火的一首韩国歌 | 韓國歌 (KPOP 2022)",
-                "description": "2022 韓國流行音樂- Kpop韓語排行2022 - 最近很火的一首韩国歌| 韓國歌(KPOP 2022) ...",
+                "publishedAt": "2020-12-16T07:43:55Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[2020 MAMA] TOP 10 Most Watched Performances Compilation (조회수 TOP 10 무대 모아보기)",
+                "description": "2020 MAMA TOP 10 Most Watched Performances 00:00 TOP 10 Jessi_NUNU NANA 03:31 TOP 9 Hwa Sa_Intro + Maria 06:58 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/N3-dBYQ4HNY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/I2ImOS7fLDA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/N3-dBYQ4HNY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/I2ImOS7fLDA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/N3-dBYQ4HNY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/I2ImOS7fLDA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "韓國歌",
+                "channelTitle": "Mnet K-POP",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-02-13T21:30:01Z"
+                "publishTime": "2020-12-16T07:43:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9hLd7O15DVh6d_o6F1gHGCyyZ6Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iwonvR-igzQ"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-31T09:00:13Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "🎉2020 Mnet K-POP Most Watched Videos TOP 10🎉 (Mnet K-POP 2020년 조회수 TOP 10)",
+                "description": "2020 Mnet K-POP Most Watched Videos TOP 10 00:00 TOP 10 EVERGLOW - DUN DUN | M COUNTDOWN 03:20 TOP 9 NCT U ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iwonvR-igzQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iwonvR-igzQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iwonvR-igzQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mnet K-POP",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-31T09:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QwrWhmTlKkudHcLhwR_43HPCBn8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tQJIszK1EOo"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-06T11:11:26Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[2020 MAMA] ATEEZ_Dona Eis Requiem(INCEPTION + Answer) | Mnet 201206 방송",
+                "description": "Qui fert pondus coronae velit Dona Eis Requiem(INCEPTION + Answer) by ATEEZ in 2020 MAMA #2020MAMA #MAMA ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tQJIszK1EOo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tQJIszK1EOo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tQJIszK1EOo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mnet K-POP",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-06T11:11:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "a3alkE0GIhmzMO9I0yP0KcKdCRE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fEKVyfsYnuM"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-06T09:43:41Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[2020 MAMA] TAEMIN_Intro + Criminal + Heaven + IDEA (理想) | Mnet 201206 방송",
+                "description": "The dawn of a NEW-TOPIA Intro + Criminal + Heaven + IDEA (理想) by TAEMIN in 2020 MAMA #2020MAMA #MAMA ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fEKVyfsYnuM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fEKVyfsYnuM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fEKVyfsYnuM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mnet K-POP",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-06T09:43:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OVTcwG0dpTJOBksPenduJ4PDwi8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "l0yU7VbM_Mk"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-31T11:15:01Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[2021 MAMA] BTS(방탄소년단) MAMA PERFORMANCE COMPILATION (2021 MAMA 수상자 역대 마마 무대 모아보기)",
+                "description": "[2021 MAMA] MAMA PERFORMANCE COMPILATION | BTS(방탄소년단) (2021 MAMA 수상자 역대 마마 무대 모아보기) MAKE ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l0yU7VbM_Mk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l0yU7VbM_Mk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l0yU7VbM_Mk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mnet K-POP",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-31T11:15:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4hKyXGYhZ1kv1lhT7SI_rMw8p5A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d2heDnR3sjc"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-29T12:03:31Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[2022 MAMA] IVE&amp;Kep1er&amp;NMIXX&amp;LE SSERAFIM&amp;NewJeans - CHEER UP | Mnet 221129 방송",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 'LINNK the next generation' CHEER UP by IVE&Kep1er&NMIXX&LE ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d2heDnR3sjc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d2heDnR3sjc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d2heDnR3sjc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mnet K-POP",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-29T12:03:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rM7fALvIDtqKdI4VVo7K3frGod8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "joTrsDAj8Yw"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-30T10:13:03Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[2022 MAMA] NewJeans - Cookie+Attention+Hurt+Hype boy (MAMA ver.) | Mnet 221130 방송",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 'NewFriends' Cookie+Attention+Hurt+Hype boy (MAMA ver.)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/joTrsDAj8Yw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/joTrsDAj8Yw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/joTrsDAj8Yw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mnet K-POP",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-30T10:13:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Aci3e4pjgMbeP03hL69-vRAFvsM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zoAMs5mGX1w"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-29T09:55:15Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[2022 MAMA] NMIXX - DICE | Mnet 221129 방송",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 'DOWNSIDE UP' DICE by NMIXX in 2022 MAMA AWARDS World's ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zoAMs5mGX1w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zoAMs5mGX1w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zoAMs5mGX1w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mnet K-POP",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-29T09:55:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EpcFgDWMT748ufFJV6tR_dlePFE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RyKcxGpoWrA"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-29T10:07:13Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[2022 MAMA] BIBI - BIBI Vengeance | Mnet 221129 방송",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 'TWO WOMEN' BIBI Vengeance by BIBI in 2022 MAMA AWARDS ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RyKcxGpoWrA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RyKcxGpoWrA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RyKcxGpoWrA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mnet K-POP",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-29T10:07:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aCADBxCX4PddJepbyzC0_8KFMMA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3-ozQBLitio"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-29T10:28:40Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[2022 MAMA] LE SSERAFIM - ANTIFRAGILE | Mnet 221129 방송",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 'Dear You who wish for my FALL' ANTIFRAGILE by LE SSERAFIM in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3-ozQBLitio/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3-ozQBLitio/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3-ozQBLitio/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mnet K-POP",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-29T10:28:40Z"
             }
         }
     ]

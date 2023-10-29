@@ -8,7 +8,7 @@ function LogInPage () {
                 <h2>Sign in</h2>
                 <h5>to continue to YouTube</h5>
 
-            <Form className="flex max-w-md flex-col gap-4" action="../root">
+            <Form className="flex max-w-md flex-col gap-4" action="/root">
                 <div>                 
                     <TextInput
                     id="email1"

@@ -33,6 +33,13 @@
   font-size: 3.75rem;
 }
 
+/* .sidebarContainer {
+  width: 250px;
+  position: fixed;
+  top: 60px;
+  left: 0;
+} */
+
 .logIn{
   display: flex;
   align-items: center;
@@ -62,4 +69,8 @@ Form{
 
 .logo{
   display: flex;
+}
+
+.sidebarItems{
+  font-size: 100px;
 }

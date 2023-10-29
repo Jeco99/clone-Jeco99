@@ -2,6 +2,7 @@
 
 import { Sidebar } from 'flowbite-react';
 import exploreData from './exploreData';
+import { Link } from "react-router-dom";
 
 export default function Explore() {
   return (
@@ -12,13 +13,10 @@ export default function Explore() {
             <Sidebar.ItemGroup>
             {exploreData.map( ( {icon, name} ) => (
                   <Sidebar.Item
-                  href={`/${name}`}
                   icon={icon}
                   key={name}
                 >
-                  <p>
-                   {name}
-                  </p>
+                  <Link to={`/pages/${name}`}>  {name} </Link>
                 </Sidebar.Item>
             ))}
             </Sidebar.ItemGroup>

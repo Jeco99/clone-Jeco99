@@ -11,10 +11,10 @@ export default [
     }, 
     {
         icon: HiInbox,
-        name: 'Watch Later'
+        name: 'WatchLater'
     }, 
     {
         icon: HiInbox,
-        name: 'Liked Videos'
+        name: 'LikedVideos'
     }
 ]
